@@ -14,9 +14,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
-        // ✅ customView의 배경색 변경
-        
     }
     
     @IBAction func changeColorView(_ sender: UIButton) {
